@@ -6,4 +6,4 @@ Polarity is an attribute of sentiment analysis in which the output  lies between
 
 Subjectivity is the output that lies within 0 and 1, and refers to personal opinions and judgments.
 
-All identities have been anonymized, and each individual is identified only by an initial (C, A, J, or G).
+All identities have been anonymized, and each individual is identified only by a letter (C, A, J, or G).
